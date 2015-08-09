@@ -116,8 +116,8 @@ function add_field_to_submitbox(){
       }           
   });        
   });
-
       $('#users_table').DataTable();
+      
   });
         </script>
         <div class='misc-pub-section'>
