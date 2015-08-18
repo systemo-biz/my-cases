@@ -3,10 +3,17 @@ My Cases - набор компонентов для настройки порт�
 
 # Плагины
 
-ACL https://github.com/systemo-biz/acl-s
-
-bbPress https://bbpress.org/
+- bbPress https://bbpress.org/
+- ACL https://github.com/systemo-biz/acl-s
+- URL-access (ссылка скоро будет)
 
 # Тема
 
 WPBSS https://github.com/systemo-biz/wpbss
+
+# Настройка
+
+- ставим bbPress
+- ставим ACL
+- ставим URL-access
+- ставим CaseTracker-bbPress
