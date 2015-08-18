@@ -6,6 +6,7 @@ My Cases - набор компонентов для настройки порт�
 - bbPress https://bbpress.org/
 - ACL https://github.com/systemo-biz/acl-s
 - URL-access (ссылка скоро будет)
+- HybridAuth - для соц авторизации
 
 # Тема
 
