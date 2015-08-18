@@ -7,6 +7,7 @@ My Cases - набор компонентов для настройки порт�
 - ACL https://github.com/systemo-biz/acl-s
 - URL-access (ссылка скоро будет)
 - HybridAuth - для соц авторизации (Google, Facebook, VK)
+- ToDo https://github.com/systemo-biz/todo-cp
 
 # Тема
 
